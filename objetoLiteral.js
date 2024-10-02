@@ -10,4 +10,8 @@ const user = {
     }
 }
 
-user.exibirInfos();
+const exibir = user.exibirInfos;
+
+const exibirNome = exibir.bind(user);
+
+exibirNome()
