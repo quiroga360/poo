@@ -1,0 +1,13 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "IMPERATIVOS\r Paradigmas: estrutural, procedural, orientado a objetos\r - afirmação para alterar o estado de um programa\r - foco em 'como', passo a passo",
+  "main": "User.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
